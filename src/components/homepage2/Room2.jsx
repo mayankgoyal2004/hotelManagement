@@ -1,7 +1,7 @@
 import React from 'react'
 import "../../utils-css/hero2css/room2.css"
 import image from "../../assets/Image.png";
-import roominfo from "../../assets/Room info.png";
+import roominfo from "../../assets/RoomInfo.png";
 import line from "../../assets/Line.png"
 import slider from "../../assets/Slider.png"
 

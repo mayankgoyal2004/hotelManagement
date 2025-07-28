@@ -1,7 +1,7 @@
 import React from "react";
 import "../utils-css/service.css";
 import line from "../assets/Line.png";
-import image from "../assets/image.png";
+import image from "../assets/Image.png";
 import gym from "../assets/gym.png";
 import right from "../assets/Right.png";
 import spa from "../assets/spa.png";

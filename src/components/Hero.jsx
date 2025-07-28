@@ -1,6 +1,6 @@
 import React from "react";
 import right from "../assets/Right.png";
-import LeftArrow from "../assets/leftArrow.png";
+import LeftArrow from "../assets/LeftArrow.png";
 import RightArrow from "../assets/RightArrow.png";
 import calender from "../assets/calender.png";
 import "../utils-css/Hero.css";

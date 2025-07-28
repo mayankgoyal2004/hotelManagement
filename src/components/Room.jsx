@@ -1,6 +1,6 @@
 import React from "react";
 import line from "../assets/Line.png";
-import item1 from "../assets/item1.png";
+import item1 from "../assets/item.png";
 import item2 from "../assets/item2.png";
 import item3 from "../assets/item3.png";
 import item4 from "../assets/item4.png";

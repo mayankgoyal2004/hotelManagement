@@ -2,7 +2,7 @@ import React from "react";
 import "../../utils-css/hero2css/discover.css";
 import line from "../../assets/Line.png";
 import discoverm from "../../assets/discoverb.png";
-import video from "../../assets/Video Button.png";
+import video from "../../assets/VideoButton.png";
 import right from "../../assets/Right.png";
 
 

@@ -1,15 +1,15 @@
 import React from "react";
 import line from "../assets/Line.png";
-import image11 from "../assets/item11.png";
+import image11 from "../assets/ite_m.png";
 import item22 from "../assets/item22.png";
 import item33 from "../assets/item33.png";
 import item44 from "../assets/item44.png";
-import "../utils-css/team.css"
+import "../utils-css/team.css";
 
 const Team = () => {
   return (
     <section className="team">
-      <div >
+      <div>
         <img src={line} alt="" />
       </div>
       <div className="team-items">

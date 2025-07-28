@@ -1,7 +1,7 @@
 import React from "react";
 import right from "../assets/Right.png";
-import LeftArrow from "../assets/left Arrow.png";
-import RightArrow from "../assets/Right Arrow.png";
+import LeftArrow from "../assets/leftArrow.png";
+import RightArrow from "../assets/RightArrow.png";
 import calender from "../assets/calender.png";
 import "../utils-css/Hero.css";
 
@@ -34,20 +34,20 @@ const Hero = () => {
         <div className="Check value">
           <label htmlFor="">Check In</label>
           <div className="wraper">
-          <input type="date" />
-          <span>
-            <img src={calender} alt="" />
-          </span>
+            <input type="date" />
+            <span>
+              <img src={calender} alt="" />
+            </span>
           </div>
         </div>
-        
-       <div className="Check value">
+
+        <div className="Check value">
           <label htmlFor="">Check Out</label>
           <div className="wraper">
-          <input type="date" />
-          <span>
-            <img src={calender} alt="" />
-          </span>
+            <input type="date" />
+            <span>
+              <img src={calender} alt="" />
+            </span>
           </div>
         </div>
         <div className="select value">

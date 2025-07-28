@@ -2,12 +2,11 @@ import React from "react";
 import line from "../../assets/Line5.png";
 import circle from "../../assets/circelm.png";
 import star from "../../assets/Star.png";
-import LeftArrow from "../../assets/left Arrow.png";
-import RightArrow from "../../assets/Right Arrow.png";
+import LeftArrow from "../../assets/leftArrow.png";
+import RightArrow from "../../assets/RightArrow.png";
 import calender from "../../assets/calender.png";
 import right from "../../assets/Right.png";
-import "../../utils-css/hero2css/homem.css"
-
+import "../../utils-css/hero2css/homem.css";
 
 const HomeMain = () => {
   return (
@@ -67,9 +66,9 @@ const HomeMain = () => {
           <div className="items">
             <label htmlFor="">Room</label>
             <select name="" id="">
-              <option >1</option>
-              <option >2</option>
-              <option >3</option>
+              <option>1</option>
+              <option>2</option>
+              <option>3</option>
             </select>
           </div>
           <div className="items">
@@ -81,7 +80,12 @@ const HomeMain = () => {
             </select>
           </div>
         </div>
-        <div className="bottom-line"><span >Check Availability </span><span><img src={right} alt="" /></span></div>
+        <div className="bottom-line">
+          <span>Check Availability </span>
+          <span>
+            <img src={right} alt="" />
+          </span>
+        </div>
       </div>
     </section>
   );

@@ -1,0 +1,84 @@
+.discover{
+    display: flex;
+    margin-top: 120px;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    gap: 110px;
+
+
+}
+
+.dis{
+    width: 400px;
+    height: 500px;
+    margin-left: 50px;
+
+}
+.video{
+    position: absolute;
+    left: 400px;
+    bottom: 200px;
+}
+
+.discover-left{
+    margin-right: 200px;
+}
+.discover h1{
+     font-family: "Poppins",sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    word-spacing: 2px;
+     letter-spacing: 2.5px;
+     color: #BF9766;
+     text-transform: uppercase;
+}
+.discover h2{
+     font-weight: 400;
+    font-family: "Forum",sans-serif;
+    font-size: 64px;
+    margin-top: -10px;
+    text-transform: capitalize;
+}
+.discover p{
+     font-family: "Poppins",sans-serif;
+font-weight: 300;
+font-size: 18px;
+margin-top: -20px;
+
+}
+.bottom-line1{
+    background-color: #f1dfc9;
+    display: flex;
+    font-size: 16px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    gap: 30px;
+    font-family: "poppins";
+    color:#BF9766;
+    margin-bottom: 20px;
+    padding: 2.5px ;
+   
+}
+.bottom-line-text1::before{
+ content: "";
+  position: absolute;
+  top: 1px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background-color: #BF9766;
+}
+.bottom-line-text1::after{
+content: "";
+  position: absolute;
+  bottom: 1px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: #BF9766;
+}
+.arrow-11{
+    background-color: ;
+}

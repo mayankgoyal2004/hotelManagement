@@ -1,0 +1,57 @@
+.Experience{
+     background: linear-gradient(to bottom,#222121, #2221214F, #222121);
+padding: 40px;
+margin-top: 80px;
+margin-bottom: 80px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+gap: 50px;
+}
+.Experience h3{
+     font-weight: 400;
+    font-family: "Forum",sans-serif;
+    font-size: 64px;
+
+    text-transform: capitalize;
+    color: white;
+    margin-left: -30px;
+
+}
+
+.Experience button{
+    background-color: transparent;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    position: relative;
+}
+.Experience button span{
+    font-family: "Poppins",sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    color: white;
+    font-size: 16px;
+    
+
+}
+.Experience button span::after{
+       content: "";
+  position: absolute;
+  bottom: 1px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: white;
+}
+.Experience button span::before{
+    content: "";
+  position: absolute;
+  top: 1px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: white;
+}

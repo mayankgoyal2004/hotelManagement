@@ -1,0 +1,25 @@
+.team{
+    text-align: center;
+    margin-top: 120px;
+}
+
+.team-items h1{
+     font-family: "Poppins",sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    word-spacing: 2px;
+     letter-spacing: 2.5px;
+     color: #BF9766;
+}
+.team-items h2{
+      font-weight: 400;
+    font-family: "Forum",sans-serif;
+    font-size: 64px;
+    margin-top: -5px;
+}
+.team-image{
+    display: flex;
+   gap: 30px;
+    justify-content: center;
+    align-items: center;
+}

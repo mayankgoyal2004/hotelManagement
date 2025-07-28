@@ -1,0 +1,36 @@
+.room-section{
+ text-align: center;
+ margin-top: 120px;
+}
+
+.heading{
+    font-family: "Poppins",sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    word-spacing: 2px;
+     letter-spacing: 2.5px;
+     color: #BF9766;
+}
+
+.heading-room{
+    font-weight: 400;
+    font-family: "Forum",sans-serif;
+    font-size: 64px;
+    margin-top: -50px;
+    
+}
+.image-upper{
+    display: flex;
+    gap: 20px;
+  justify-content: center;
+  align-items: center;
+     margin-bottom: 43px;
+     padding: 5px;
+}
+.image-down{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+        gap: 38px
+}

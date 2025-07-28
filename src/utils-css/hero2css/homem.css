@@ -1,0 +1,133 @@
+.hero{
+     background: linear-gradient(to bottom, #2221213D, #222121);
+ padding: 40px 20px 100px;
+ position: relative;
+ display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+
+}
+.hero-div-sec{
+    margin-left: 30px;
+}
+.hero-p{
+    font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: 24px;
+  word-spacing: 2px;
+  letter-spacing: 2.5px;
+  color: #bf9766;
+}
+.hero-heading{
+    font-weight: 400;
+  font-family: "Forum", sans-serif;
+  font-size: 64px;
+  margin-top: -5px;
+  color: white;
+}
+.circle{
+    display: flex;
+    margin-top: -70px;
+   
+}
+.circle img{
+     margin-left: -20px;
+   
+}
+.rating{
+   display: flex;
+  align-items: center;
+  gap: 20px;
+  
+}
+.rating-text p {
+  font-size: 14px;
+      font-family: "Poppins", sans-serif;
+font-weight: 300;
+font-size: 18px;
+color: white;
+margin-top: -20px;
+
+}
+.star{
+    margin-top: -70px;
+    display: flex;
+    justify-content: start;
+}
+
+.hero-arrows button{
+    border: none;
+    background-color: transparent;
+}
+.hero-arrows{
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.right-box{
+    top: 442px;
+   left: 853px;
+    position: absolute;
+    background-color: #2D2C2C;
+      padding: 30px;
+  border-radius: 6px;
+ width: 250px;
+  margin-top: 20px;
+}
+.items{
+    margin-bottom: 25px;
+    
+}
+.items label{
+    font-family: "Forum",sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: white;
+    
+
+}
+
+.wrapper input::-webkit-calendar-picker-indicator {
+  display: none;
+}
+.wrapper{
+    position: relative;
+}
+
+.wrapper input{
+    background-color:#575656 ;
+    color: #bf9766;
+    width: 200px;
+    height: 35px;
+    border: no;
+    position: relative;
+}
+.items select {
+    background-color: #575656;
+    color: #bf9766;
+    height: 35px;
+    width: 100px;
+}
+.box-selection{
+    display: flex;
+}
+.wrapper span img{
+    position: absolute;
+    top: 10px;
+    right: 50px;
+}
+
+.bottom-line{
+    display: flex;
+    font-size: 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    font-style: italic;
+    color: #bf9766;
+    font-family: "poppins";
+    color: white;
+    margin-bottom: 20px;   
+    margin-top: 20px;
+}

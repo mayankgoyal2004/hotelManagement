@@ -1,0 +1,73 @@
+.client {
+  background: linear-gradient(to bottom, #2221213d, #222121);
+  text-align: center;
+  padding: 40px 20px 0px;
+  position: relative;
+  margin-top: 128px;
+  height: 612px;
+  margin-bottom: 250px;
+}
+.client-upper img {
+  height: 146px;
+}
+.client-upper h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: 24px;
+  word-spacing: 2px;
+  letter-spacing: 2.5px;
+  color: #bf9766;
+}
+.client-upper h3 {
+  font-weight: 400;
+  font-family: "Forum", sans-serif;
+  font-size: 64px;
+  margin-top: -5px;
+  color: white;
+}
+
+.client-lower {
+  display: flex;
+  margin: 170px auto;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: "Forum", sans-serif;
+
+  width: fit-content;
+}
+
+.client-items {
+  background-color: #2d2c2c;
+  height: 293px;
+}
+.client-items p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: start;
+  padding: 20px;
+  margin-top: -50px;
+}
+.client-items h6 {
+  font-family: "Forum", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  text-align: right;
+  padding: 20px;
+  color: #bf9766;
+}
+.client-items h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: right;
+  padding: 20px;
+  margin-top: -95px;
+}
+.sta {
+  text-align: start;
+  padding: 50px;
+  display: flex;
+  gap: 10px;
+}

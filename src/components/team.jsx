@@ -1,9 +1,9 @@
 import React from "react";
 import line from "../assets/Line.png";
-import image11 from "../assets/ite_m.png";
-import item22 from "../assets/item22.png";
-import item33 from "../assets/item33.png";
-import item44 from "../assets/item44.png";
+import image11 from "../assets/Ite_m.png";
+import item22 from "../assets/Item22.png";
+import item33 from "../assets/Item33.png";
+import item44 from "../assets/Item44.png";
 import "../utils-css/team.css";
 
 const Team = () => {

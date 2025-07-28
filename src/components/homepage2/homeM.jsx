@@ -2,7 +2,7 @@ import React from "react";
 import line from "../../assets/Line5.png";
 import circle from "../../assets/circelm.png";
 import star from "../../assets/Star.png";
-import LeftArrow from "../../assets/leftArrow.png";
+import LeftArrow from "../../assets/LeftArrow.png";
 import RightArrow from "../../assets/RightArrow.png";
 import calender from "../../assets/calender.png";
 import right from "../../assets/Right.png";
